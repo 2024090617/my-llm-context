@@ -1,0 +1,17 @@
+{
+  "contextSources": [
+    {
+      "type": "git",
+      "repo": "https://github.com/2024090617/my-llm-context.git",
+      "paths": ["/project-notes/**/*.md"]
+    },
+    {
+      "type": "local",
+      "path": "${workspaceFolder}/src/**/*.py"
+    }
+  ],
+  "compressionRules": {
+    "max_tokens": 8000,
+    "priorityKeywords": ["urgent", "API change", "deadline"]
+  }
+}
