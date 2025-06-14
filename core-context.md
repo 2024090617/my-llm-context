@@ -1,1 +1,0 @@
-- [认证模块文档] (https://docs.authing.cn/v2/reference-new/sdk-v5/node/authentication.html)
